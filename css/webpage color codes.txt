@@ -1,0 +1,69 @@
+
+
+html background color = 	green 	#006837
+
+body background color= 	white       #fff
+___________________________________________
+
+nav link color = 		gold    	#42210B
+
+nav vlink color = 		orange 	#FBB03B
+
+nav border color = 		gold    	#FBB03B
+
+nav background color = 	brown 	#A67C52
+_________________________________________
+
+
+banner SATBtext = 		green 	#002100
+
+banner text color = 		orange	#DB5021
+
+______________________________________
+
+h2 text = 			green 	#004637
+
+h3 text = 			green 	#006837
+
+h4 text = 			black 	#fff
+________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
